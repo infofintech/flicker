@@ -1,1 +1,1 @@
-{"author":"infofintech","host":"https:\/\/github.com","favicon":"flicker.icon.png","avatar":"pkg","version":"1.6","branch":"main","born":"2022","description":"A simple color flicker app.","title":"Flicker","type":"Web Application","run":"flicker.php","files":"flicker.icon.png;flicker.php;"}
+{"author":"infofintech","host":"https:\/\/github.com","favicon":"flicker.icon.png","version":"1.6","branch":"main","initial_release":"2020","description":"A simple color flicker app.","title":"Flicker","type":"Web Application","run":"flicker.php","files":"flicker.icon.png;flicker.php;"}
